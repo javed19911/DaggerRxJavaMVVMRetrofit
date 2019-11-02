@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">News-India</string>
+
+
+    <!--empty state-->
+    <string name="empty_screen">We do not have anything\nhere right now.</string>
+    <string name="please_retry">Please Retry</string>
+    <string name="retry">Retry</string>
+</resources>
